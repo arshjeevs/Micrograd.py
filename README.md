@@ -18,7 +18,7 @@ To use the `Value` class in your own project, simply clone this repository and a
 
 ### Clone the repo
 ```bash
-git clone https://github.com/yourusername/value-autograd.git
+git clone https://github.com/arshjeevs/value-autograd.git
 ```
 
 ### Usage
