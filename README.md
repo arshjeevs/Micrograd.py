@@ -90,7 +90,7 @@ Feel free to contribute to this project by forking the repository and submitting
 1. Fork the repository.
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/yourusername/value-autograd.git
+   git clone https://github.com/arshjeevs/value-autograd.git
    ```
 3. Create a new branch for your changes:
    ```bash
